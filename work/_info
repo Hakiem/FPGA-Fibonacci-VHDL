@@ -1,0 +1,696 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Lab5
+T_opt
+!s110 1487790878
+VSeO;zY5mAbcb5cjVJCDUR1
+04 13 10 work testbenchlab4 behavioral 1
+=1-f8a9636fba6d-58ade31d-1c3-1f58
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.5;63
+R0
+T_opt1
+!s110 1488836088
+VEXg9XS2ADDdz0KfV26=JI3
+04 7 11 work procbus behavioural 1
+=1-f8a9636fba6d-58bdd5f6-2a3-1bd8
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1488987844
+VSR@i@ceelW;RG@YBARCJF0
+04 13 10 work testbenchlab5 behavioral 1
+=1-f8a9636fba6d-58c026c3-359-b0
+R1
+R2
+n@_opt2
+R3
+R0
+Ealu_tb
+Z4 w1486457954
+Z5 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z6 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z7 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z8 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z9 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z10 dC:/Lab77
+Z11 8C:/Lab77/alu_testbench.vhd
+Z12 FC:/Lab77/alu_testbench.vhd
+l0
+L8
+V:;P8jaX@f0f2VgPIK><M93
+!s100 S<kGfU:Cj?bX[YELJ8cl90
+Z13 OL;C;10.5;63
+33
+Z14 !s110 1494279012
+!i10b 1
+Z15 !s108 1494279012.000000
+Z16 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|C:/Lab77/alu_testbench.vhd|
+Z17 !s107 C:/Lab77/alu_testbench.vhd|
+!i113 0
+Z18 o-work work -2008 -explicit
+Z19 tExplicit 1 CvgOpt 0
+Abehavioral
+R5
+R6
+R7
+R8
+R9
+DEx4 work 6 alu_tb 0 22 :;P8jaX@f0f2VgPIK><M93
+l102
+L11
+VYX:kj0mk6]P>d`dPHlH5G2
+!s100 nbBz8d7QEjZ4NB6g3TNPG1
+R13
+33
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 0
+R18
+R19
+Ealu_wrca
+Z20 w1489754904
+Z21 DPx8 synopsys 10 attributes 0 22 liCm]LV3<lX4Zl>o6^8IV1
+Z22 DPx4 ieee 14 std_logic_misc 0 22 BLzBaQbXS>Q1z>5YO]m[52
+R8
+R9
+R10
+Z23 8C:\Lab77\alu_wRCA.vhd
+Z24 FC:\Lab77\alu_wRCA.vhd
+l0
+L6
+VKTeH<Ah4z=M0W3^QEUI541
+!s100 HlK:BBk4eeILMDK<jW5>K0
+R13
+33
+Z25 !s110 1494279013
+!i10b 1
+Z26 !s108 1494279013.000000
+Z27 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|C:\Lab77\alu_wRCA.vhd|
+Z28 !s107 C:\Lab77\alu_wRCA.vhd|
+!i113 0
+R18
+R19
+Abehavioral
+R21
+R22
+R8
+R9
+DEx4 work 8 alu_wrca 0 22 KTeH<Ah4z=M0W3^QEUI541
+l59
+L19
+V]Y2Qjd5XI?bO_S4MK2AgH1
+!s100 NKdOMXKLW<44`8g_DPS4Z0
+R13
+33
+R25
+!i10b 1
+R26
+R27
+R28
+!i113 0
+R18
+R19
+Ecarry_lookahead_addr
+Z29 w1486777146
+R8
+R9
+R10
+Z30 8C:\Lab77\carry_look_ahead_adder.vhd
+Z31 FC:\Lab77\carry_look_ahead_adder.vhd
+l0
+L4
+V6?gVOEY8^<_FORZS0?gzY0
+!s100 eTicN>0h`NCh_i^InZS5i2
+R13
+33
+Z32 !s110 1489753531
+!i10b 1
+Z33 !s108 1489753531.000000
+Z34 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|C:\Lab77\carry_look_ahead_adder.vhd|
+Z35 !s107 C:\Lab77\carry_look_ahead_adder.vhd|
+!i113 0
+R18
+R19
+Abehavioral
+R8
+R9
+DEx4 work 20 carry_lookahead_addr 0 22 6?gVOEY8^<_FORZS0?gzY0
+l23
+L16
+V:AfTXb3OCDoPBiZX<^WCU1
+!s100 B7>AELOSaN_IER^fMSLX92
+R13
+33
+R32
+!i10b 1
+R33
+R34
+R35
+!i113 0
+R18
+R19
+Ecarrylookaheadaddr
+Z36 w1494278420
+R8
+R9
+R10
+Z37 8C:\Lab77\CarryLookAheadAddr.vhd
+Z38 FC:\Lab77\CarryLookAheadAddr.vhd
+l0
+L4
+VeXQH174NSzjoDTaL981_K3
+!s100 ZjKJBZ^FGWH]2zDhjLA<R3
+R13
+32
+Z39 !s110 1494279014
+!i10b 1
+Z40 !s108 1494279014.000000
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:\Lab77\CarryLookAheadAddr.vhd|
+Z42 !s107 C:\Lab77\CarryLookAheadAddr.vhd|
+!i113 0
+Z43 o-work work -2002 -explicit
+R19
+Abehavioral
+R8
+R9
+DEx4 work 18 carrylookaheadaddr 0 22 eXQH174NSzjoDTaL981_K3
+l21
+L16
+V5J]GWI>DMBg4iYhI_XkEL1
+!s100 67R7Gm2emcRieF[N?_jD01
+R13
+32
+R39
+!i10b 1
+R40
+R41
+R42
+!i113 0
+R43
+R19
+Ecmp
+Z44 w1494278368
+R21
+R22
+R8
+R9
+R10
+Z45 8C:\Lab77\cmp.vhd
+Z46 FC:\Lab77\cmp.vhd
+l0
+L5
+V6JNAI<0dKS_k=c5ZOFXX91
+!s100 ]NYKZF]n^kaWoo9hH>gXP3
+R13
+33
+R25
+!i10b 1
+R26
+Z47 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|C:\Lab77\cmp.vhd|
+Z48 !s107 C:\Lab77\cmp.vhd|
+!i113 0
+R18
+R19
+Abehavioral
+R21
+R22
+R8
+R9
+DEx4 work 3 cmp 0 22 6JNAI<0dKS_k=c5ZOFXX91
+l17
+L13
+VXQgz91P<2Z>K^G5]?6=H82
+!s100 J:jL1Q2MhoY?V:m?@==IZ2
+R13
+33
+R25
+!i10b 1
+R26
+R47
+R48
+!i113 0
+R18
+R19
+Eeda322_processor
+Z49 w1494278974
+R7
+R8
+R9
+R10
+Z50 8C:\Lab77\EDA322_processor.vhd
+Z51 FC:\Lab77\EDA322_processor.vhd
+l0
+L9
+VCG7Ldl1=]W1mJdfB1XFk:3
+!s100 W<3C8zD67IkY<z5G<ST1^3
+R13
+33
+R39
+!i10b 1
+R26
+Z52 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|C:\Lab77\EDA322_processor.vhd|
+Z53 !s107 C:\Lab77\EDA322_processor.vhd|
+!i113 0
+R18
+R19
+Adataflow
+R7
+R8
+R9
+DEx4 work 16 eda322_processor 0 22 CG7Ldl1=]W1mJdfB1XFk:3
+l153
+L29
+VK<QE[:9oaCTTJCHVa<;o01
+!s100 KQfeSi:FXeJUQC@C8M`nP1
+R13
+33
+R39
+!i10b 1
+R26
+R52
+R53
+!i113 0
+R18
+R19
+Efulladder
+R4
+R8
+R9
+R10
+Z54 8C:\Lab77\FullAdder.vhd
+Z55 FC:\Lab77\FullAdder.vhd
+l0
+L4
+V[8T4hc;Bl<D9H?VnLJGR91
+!s100 :docBUg>MMh3<bbzHJoUJ3
+R13
+32
+R39
+!i10b 1
+R40
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:\Lab77\FullAdder.vhd|
+Z57 !s107 C:\Lab77\FullAdder.vhd|
+!i113 0
+R43
+R19
+Aadder
+R8
+R9
+Z58 DEx4 work 9 fulladder 0 22 [8T4hc;Bl<D9H?VnLJGR91
+l11
+L10
+Z59 VdTZ:IC1ZS74`n8V:EQLYS1
+Z60 !s100 k:[5dCOD:Yg;6l_]1CUWI2
+R13
+32
+R39
+!i10b 1
+R40
+R56
+R57
+!i113 0
+R43
+R19
+Emem_array
+Z61 w1494278781
+R7
+R9
+R8
+R10
+Z62 8C:\Lab77\mem_array.vhd
+Z63 FC:\Lab77\mem_array.vhd
+l0
+L7
+VL`31A6lXJa=SUT_LzlB4]3
+!s100 ];BczIngC39ib1K0iEmGi1
+R13
+33
+Z64 !s110 1494279010
+!i10b 1
+Z65 !s108 1494279010.000000
+Z66 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|C:\Lab77\mem_array.vhd|
+Z67 !s107 C:\Lab77\mem_array.vhd|
+!i113 0
+R18
+R19
+Abehaviour
+R7
+R9
+R8
+DEx4 work 9 mem_array 0 22 L`31A6lXJa=SUT_LzlB4]3
+l42
+L21
+VD1jUhR3fjCBDB:8]ZiHR51
+!s100 >PoGAIzOU>ZGcm8Wb[18O2
+R13
+33
+R64
+!i10b 1
+R65
+R66
+R67
+!i113 0
+R18
+R19
+Emux2to1
+R4
+R8
+R9
+R10
+Z68 8C:\Lab77\mux2to1.vhd
+Z69 FC:\Lab77\mux2to1.vhd
+l0
+L4
+V_kKHfW7l39Ha6Ck:G7QFh3
+!s100 6f0WSdl0e<mabo:P?4Zl61
+R13
+33
+R64
+!i10b 1
+R65
+Z70 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|C:\Lab77\mux2to1.vhd|
+Z71 !s107 C:\Lab77\mux2to1.vhd|
+!i113 0
+R18
+R19
+Adataflow
+R8
+R9
+DEx4 work 7 mux2to1 0 22 _kKHfW7l39Ha6Ck:G7QFh3
+l11
+L10
+V8`RMTJoJBg67cQfYiYl=A2
+!s100 FM0GAODhcW2DQ`YeD;^k30
+R13
+33
+R64
+!i10b 1
+R65
+R70
+R71
+!i113 0
+R18
+R19
+Emux4to1
+R4
+R8
+R9
+R10
+Z72 8C:/Lab77/mux4to1.vhd
+Z73 FC:/Lab77/mux4to1.vhd
+l0
+L4
+VT<J`NPOHYSR7zXU;?5`[]2
+!s100 zjM92NSB<VGNG3IVnOUB51
+R13
+33
+Z74 !s110 1488547968
+!i10b 1
+Z75 !s108 1488547968.000000
+Z76 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|C:/Lab77/mux4to1.vhd|
+Z77 !s107 C:/Lab77/mux4to1.vhd|
+!i113 0
+R18
+R19
+Adataflow
+R8
+R9
+DEx4 work 7 mux4to1 0 22 T<J`NPOHYSR7zXU;?5`[]2
+l11
+L10
+Vg<8H4E;47<`A5;[>PKQ_C2
+!s100 bb1V]@M72U1cZklMZm`:O1
+R13
+33
+R74
+!i10b 1
+R75
+R76
+R77
+!i113 0
+R18
+R19
+Eprocbus
+Z78 w1494278667
+R7
+R8
+R9
+R10
+Z79 8C:\Lab77\procBus.vhd
+Z80 FC:\Lab77\procBus.vhd
+l0
+L6
+V07_fXH=P<NzFeAYb?U4>]1
+!s100 SN?RbC0Cn=S70iEb@?>>52
+R13
+33
+R64
+!i10b 1
+R65
+Z81 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|C:\Lab77\procBus.vhd|
+Z82 !s107 C:\Lab77\procBus.vhd|
+!i113 0
+R18
+R19
+Abehavioural
+R7
+R8
+R9
+DEx4 work 7 procbus 0 22 07_fXH=P<NzFeAYb?U4>]1
+l24
+L20
+VLSjQ61EeAE<IbWPCUJ90E2
+!s100 @1;z5;MRU@D6PZ<am3z_E0
+R13
+33
+R64
+!i10b 1
+R65
+R81
+R82
+!i113 0
+R18
+R19
+Eproccontroller
+Z83 w1486466026
+R8
+R9
+R10
+Z84 8C:\Lab77\procController.vhd
+Z85 FC:\Lab77\procController.vhd
+l0
+L4
+VK0Ne8;2eL4KcB;6Wk1<DS2
+!s100 =S`Cz;Mbo@_eE;54_:?gZ0
+R13
+33
+Z86 !s110 1494279011
+!i10b 1
+Z87 !s108 1494279011.000000
+Z88 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|C:\Lab77\procController.vhd|
+Z89 !s107 C:\Lab77\procController.vhd|
+!i113 0
+R18
+R19
+Abehavioral
+R8
+R9
+DEx4 work 14 proccontroller 0 22 K0Ne8;2eL4KcB;6Wk1<DS2
+l35
+L28
+V?o01flN4fzZ@NGdP?=@Xg1
+!s100 N<Y_2amgM]CSePOPKg::F3
+R13
+33
+R86
+!i10b 1
+R87
+R88
+R89
+!i113 0
+R18
+R19
+Erca
+Z90 w1486773999
+R8
+R9
+R10
+Z91 8C:\Lab77\FA.vhd
+Z92 FC:\Lab77\FA.vhd
+l0
+L4
+VfLoDHB8L`5gO9BYP8Iia12
+!s100 m;hOEcLGL7>j:Zcf:YL6`3
+R13
+33
+Z93 !s110 1494279009
+!i10b 1
+Z94 !s108 1494279009.000000
+Z95 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|C:\Lab77\FA.vhd|
+Z96 !s107 C:\Lab77\FA.vhd|
+!i113 0
+R18
+R19
+Abehavioral
+R8
+R9
+DEx4 work 3 rca 0 22 fLoDHB8L`5gO9BYP8Iia12
+l24
+L12
+VkPPSiO?g5MB`KcG:9_>X01
+!s100 ]_L>M?K_dce2I^@P2aAXh2
+R13
+33
+R93
+!i10b 1
+R94
+R95
+R96
+!i113 0
+R18
+R19
+Ereg
+Z97 w1494278603
+R8
+R9
+R10
+Z98 8C:\Lab77\register.vhd
+Z99 FC:\Lab77\register.vhd
+l0
+L4
+VS@YHD9fzFnR4R<?WckBJQ0
+!s100 15BnjL0^YIl<UiW3cY=PX1
+R13
+33
+R86
+!i10b 1
+R87
+Z100 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|C:\Lab77\register.vhd|
+Z101 !s107 C:\Lab77\register.vhd|
+!i113 0
+R18
+R19
+Abehave
+R8
+R9
+DEx4 work 3 reg 0 22 S@YHD9fzFnR4R<?WckBJQ0
+l14
+L13
+V9<`UEGN>C^W`2;i?kOllH2
+!s100 >S9oYBG8Pfn>NC_A7[_c32
+R13
+33
+R86
+!i10b 1
+R87
+R100
+R101
+!i113 0
+R18
+R19
+Etestbenchlab4
+Z102 w1487790706
+R5
+R6
+R7
+R8
+R9
+R10
+Z103 8C:\Lab77\Testbenchlab4.vhd
+Z104 FC:\Lab77\Testbenchlab4.vhd
+l0
+L14
+V8Mj4=P3:=zlmd;g8b^2_j3
+!s100 I[`>VcAH2a^TU7VD6B7Xm2
+R13
+33
+R86
+!i10b 1
+R87
+Z105 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|C:\Lab77\Testbenchlab4.vhd|
+Z106 !s107 C:\Lab77\Testbenchlab4.vhd|
+!i113 0
+R18
+R19
+Abehavioral
+R5
+R6
+R7
+R8
+R9
+DEx4 work 13 testbenchlab4 0 22 8Mj4=P3:=zlmd;g8b^2_j3
+l63
+L17
+V^Yk8zXZ:U35U_I2c5Q?WM1
+!s100 @XYOSmDPCozBXTJ91`g@23
+R13
+33
+R86
+!i10b 1
+R87
+R105
+R106
+!i113 0
+R18
+R19
+Etestbenchlab5
+Z107 w1486642145
+Z108 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+R5
+R6
+R8
+R9
+R10
+Z109 8C:/Lab77/EDA322TestBench.vhd
+Z110 FC:/Lab77/EDA322TestBench.vhd
+l0
+L7
+VOJ50j4`1mQh1i6[XfW63I3
+!s100 UZKn<QjQ6M`n<fP<EIIWH3
+R13
+33
+R93
+!i10b 1
+Z111 !s108 1494279008.000000
+Z112 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|C:/Lab77/EDA322TestBench.vhd|
+Z113 !s107 C:/Lab77/EDA322TestBench.vhd|
+!i113 0
+R18
+R19
+Abehavioral
+R108
+R5
+R6
+R8
+R9
+DEx4 work 13 testbenchlab5 0 22 OJ50j4`1mQh1i6[XfW63I3
+l72
+L10
+V1SA39L>dWjb^P74GzLIaU3
+!s100 kmzHGcV?>f5U=VdRZQSH61
+R13
+33
+R93
+!i10b 1
+R111
+R112
+R113
+!i113 0
+R18
+R19

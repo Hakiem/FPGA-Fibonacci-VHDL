@@ -1,0 +1,13 @@
+LIBRARY IEEE;
+USE IEEE.STD_LOGIC_1164.ALL;
+
+ENTITY Mux2To1 IS
+    PORT ( a, b : IN  STD_LOGIC_VECTOR(7 DOWNTO 0);
+           s    : IN  STD_LOGIC;
+           f    : OUT STD_LOGIC_VECTOR(7 DOWNTO 0));
+END ENTITY;
+
+ARCHITECTURE DataFlow OF Mux2To1 IS
+BEGIN
+    f <= a WHEN (s = '0') ELSE b;
+END DataFlow;
